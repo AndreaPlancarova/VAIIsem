@@ -19,7 +19,39 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="562764f7-2034-4597-a275-a77f28ed6a7e" name="Default Changelist" comment="" />
+    <list default="true" id="562764f7-2034-4597-a275-a77f28ed6a7e" name="Default Changelist" comment="version1.1">
+      <change afterPath="$PROJECT_DIR$/mvc/App/Controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beatles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/App/Config/Configuration.php" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/App/Config/Configuration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/baby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/bear1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/bear2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/bear3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/bear4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/bear5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/card1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/card2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/card3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/navbar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/navbar11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/ski1.jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/ski11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obr/ski2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,14 +68,19 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mvc" />
   </component>
   <component name="ProjectId" id="1jBYCHxjzPf0PeLDfRuiVzkamDG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,7 +98,33 @@
       <updated>1603278823330</updated>
       <workItem from="1603278824485" duration="35000" />
       <workItem from="1603278932193" duration="73000" />
+      <workItem from="1603279101258" duration="377000" />
+      <workItem from="1603288259665" duration="3999000" />
+      <workItem from="1603653416201" duration="3931000" />
+      <workItem from="1604738030723" duration="1369000" />
+      <workItem from="1605258428434" duration="291000" />
+      <workItem from="1609251308922" duration="53000" />
+      <workItem from="1609324583331" duration="4753000" />
+      <workItem from="1609330707953" duration="15000" />
+      <workItem from="1609333079320" duration="44000" />
+      <workItem from="1610731453112" duration="36019000" />
+      <workItem from="1610999972366" duration="935000" />
     </task>
+    <task id="LOCAL-00001" summary="version1">
+      <created>1603279140085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603279140085</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version1.1">
+      <created>1603279358470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603279358470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,15 +140,46 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="version1" />
+    <MESSAGE value="version1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="version1.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603279004780">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611000263636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603279004780" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1611000263636" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610998599207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610998599207" />
+    <state x="303" y="135" key="NewPhpClassDialog" timestamp="1610998900471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="303" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1610998900471" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1603278840374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603278840374" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603279445704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603279445704" />
+    <state x="668" y="289" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1611000538027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="289" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824@0.0.1536.824" timestamp="1611000538027" />
+    <state x="349" y="67" key="com.intellij.database.dbimport.ImportDialog" timestamp="1611000671808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="67" key="com.intellij.database.dbimport.ImportDialog/0.0.1536.824@0.0.1536.824" timestamp="1611000671808" />
+    <state x="287" y="113" width="579" height="501" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1611000823048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="287" y="113" width="579" height="501" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1611000823048" />
   </component>
 </project>
